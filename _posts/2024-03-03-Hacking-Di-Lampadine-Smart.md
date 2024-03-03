@@ -2,10 +2,6 @@
 title: 2024-03-03-Hacking-Di-Lampadine-Smart.md 
 published: true
 ---
-# HACKING DI LAMPADINE SMART
-
-# “Don’t be silly – it’s only a lightbulb”
-
 https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
 
 ## Contesto
