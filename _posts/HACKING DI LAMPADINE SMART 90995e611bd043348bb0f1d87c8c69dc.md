@@ -1,3 +1,7 @@
+---
+title: HACKING DI LAMPADINE SMART
+published: true
+---
 # HACKING DI LAMPADINE SMART
 
 # “Don’t be silly – it’s only a lightbulb”
