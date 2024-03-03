@@ -4,7 +4,7 @@ published: true
 ---
 https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
 
-## Contesto
+# Contesto
 
 Probabilmente, la maggior parte delle persone ha familiarità con l'Internet of Things (IoT), o Internet delle Cose. Ma, quanti di noi hanno effettivamente sentito parlare delle lampadine intelligenti e sono a conoscenza delle loro caratteristiche?
 
@@ -20,7 +20,7 @@ La risposta a questa domanda, come siamo qui per dirvi, è un deciso e inequivoc
 
 Riprendendo dove la ricerca precedente si era interrotta, ci siamo concentrati sul cuore del sistema: l'hub intelligente che funge da ponte tra la rete IP e la rete ZigBee. Riuscendo a mascherarci come una legittima lampadina ZigBee, abbiamo potuto sfruttare le vulnerabilità che abbiamo individuato nel ponte. Questo ci ha permesso di infiltrarci nella preziosa rete IP, utilizzando un **exploit ZigBee over-the-air remoto**.
 
-## Introduzione a ZigBee
+# Introduzione a ZigBee
 
 Secondo quanto riportato da Wikipedia, ZigBee è un termine che indica una specifica tecnica basata sul protocollo IEEE 802.15.4. Questa specifica è stata sviluppata per una suite di protocolli di comunicazione di alto livello, i quali vengono utilizzati per la creazione di reti ad hoc wireless. Queste reti si caratterizzano per il loro basso consumo energetico, la bassa velocità di trasmissione dati e la stretta prossimità tra i dispositivi che ne fanno parte. È importante notare che ZigBee non va confuso con IEEE 802.11, noto anche come WiFi. Secondo il modello OSI, l'IEEE 802.15.4 rappresenta lo standard tecnico per il protocollo di rete basato su radio che funge da strati 1-2 dello stack di rete ZigBee.
 
@@ -28,7 +28,7 @@ Per dare un'idea più precisa di cosa significhi 'bassa velocità di trasmission
 
 Al di là dello strato di rete radio, che rappresenta la base dello stack di rete, ZigBee definisce un intero stack composto da numerosi strati di rete. Questo significa che ZigBee non si limita a fornire un protocollo per la trasmissione radio, ma offre una soluzione di networking completa e ben strutturata, in grado di gestire una vasta gamma di esigenze di comunicazione.
 
-## L'exploit
+# L'exploit
 
 Nel nostro scenario di attacco, l'obiettivo è di prendere il controllo del ponte che si trova all'interno della rete ZigBee. Non vogliamo limitarci a questo, ma intendiamo utilizzare il ponte come un punto di leva strategico per lanciare attacchi più ampi su ulteriori computer che fanno parte della rete IP.
 
