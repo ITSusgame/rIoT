@@ -1,3 +1,7 @@
+---
+title: 2024-03-03-Hacking-Di-Lampadine-Smart.md 
+published: true
+---
 # HACKING DI VIDEOCAMERE SMART
 
 ## Contesto
