@@ -66,3 +66,4 @@ prodotti.
 
 # Fonti
 https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
+https://www.youtube.com/watch?v=4CWU0DA__bY
