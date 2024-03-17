@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /contact.html
+Disallow: /flag.txt
 
 
             WHAT EXACTLY ARE YOU LOOKING FOR HERE ????
