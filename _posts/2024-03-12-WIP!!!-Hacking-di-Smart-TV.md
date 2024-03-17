@@ -23,3 +23,8 @@ Nel video YouTube “Smart TV Hacking”, **Rafael Sheil** discute il processo
 Si  denota anche la spinta verso una sempre maggiore economicità dei dispositivi IoT per i produttori, il che porta inevitabilmente a misure di sicurezza insufficienti e i cicli di patch lunghi e costosi.
 
 Il relatore dimostra l’utilizzo di un **bug di overflow dell’heap** in **Flash** e una tecnica di **manipolazione della lunghezza del vettore** per ottenere pieno accesso in lettura e scrittura alla memoria del processo. Suggerisce inoltre l’uso dei segnali **DVB** per mirare a utenti specifici o aree vaste, poiché questi segnali sono difficili da rintracciare stando che DVB è un sistema di comunicazione **unidirezionale**.
+
+## Fonti
+
+https://www.youtube.com/watch?v=bOJ_8QHX6OA
+
