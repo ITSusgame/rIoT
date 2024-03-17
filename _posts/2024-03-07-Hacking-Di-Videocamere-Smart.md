@@ -1,5 +1,5 @@
 ---
-title: 2024-03-03-Hacking-Di-Videocamere-Smart.md 
+title: 2024-03-07-Hacking-Di-Videocamere-Smart.md 
 published: true
 ---
 # HACKING DI VIDEOCAMERE SMART
