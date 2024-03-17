@@ -2,7 +2,6 @@
 title: 2024-03-03-Hacking-Di-Lampadine-Smart.md 
 published: true
 ---
-https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
 
 # Contesto
 
@@ -64,3 +63,6 @@ del tempo al nostro bridge per installare automaticamente l'aggiornamento del fi
 abbiamo trattenuto i dettagli tecnici finché gli utenti non hanno avuto abbastanza tempo per aggiornare i loro
 prodotti.
 - 7 agosto 2020 - Divulgazione pubblica completa durante DEF CON 28.
+
+# Fonti
+https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
