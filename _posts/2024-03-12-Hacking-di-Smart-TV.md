@@ -1,8 +1,7 @@
 ---
-title: 2024-03-12-Hacking-di-Smart-TV.md
+title: Hacking di Smart TV
 published: true
 ---
-# Hacking di Smart TV
 
 ## Contesto
 

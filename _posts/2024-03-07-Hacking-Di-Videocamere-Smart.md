@@ -2,7 +2,6 @@
 title: Hacking Di Videocamere Smart
 published: true
 ---
-# HACKING DI VIDEOCAMERE SMART
 
 ## Contesto
 
