@@ -1,5 +1,5 @@
 ---
-title: 2024-03-20-Hacking-Di-Frigoriferi-Smart.md
+title: Hacking Di Frigoriferi Smart
 published: true
 ---
 # HACKING DI SMART FRIDGE
