@@ -2,7 +2,6 @@
 title: Hacking Di Lampadine Smart
 published: true
 ---
-https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
 
 # Contesto
 
@@ -56,11 +55,16 @@ esistenza della vulnerabilità nel loro prodotto.
 - 25 novembre 2019 - Signify ci ha notificato che hanno terminato lo sviluppo
 e il test della patch, e che sarebbe stata rilasciata a gennaio
 1. 
-- 13 gennaio 2020 - La patch è stata distribuita come un aggiornamento del firmware remoto
-([1935144040](https://www2.meethue.com/en-us/support/release-notes/bridge)).
+- 13 gennaio 2020 - La patch è stata distribuita come un aggiornamento del firmware remoto.
 - 28 gennaio 2020 - A causa della distribuzione basata sulla geografia, ci è voluto
 del tempo al nostro bridge per installare automaticamente l'aggiornamento del firmware.
 - 5 febbraio 2020 - Abbiamo pubblicato un video dimostrativo per sensibilizzare, e
 abbiamo trattenuto i dettagli tecnici finché gli utenti non hanno avuto abbastanza tempo per aggiornare i loro
 prodotti.
 - 7 agosto 2020 - Divulgazione pubblica completa durante DEF CON 28.
+
+# Fonti
+
+[https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/](https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/)
+
+[https://www.youtube.com/watch?v=4CWU0DA__bY](https://www.youtube.com/watch?v=4CWU0DA__bY)
