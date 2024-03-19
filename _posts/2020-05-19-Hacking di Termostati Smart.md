@@ -40,8 +40,8 @@ Evitare di scaricare applicazioni o software promettenti funzionalità aggiuntiv
 
 ## Fonti
 
-[https://www.pentestpartners.com/security-blog/
+[https://www.pentestpartners.com/security-blog/](https://www.pentestpartners.com/security-blog/)
 
-[https://www.vice.com/it/article/d7dbbx/ransomware-termostati-smart-internet-of-things
+[https://www.vice.com/it/article/d7dbbx/ransomware-termostati-smart-internet-of-things/](https://www.vice.com/it/article/d7dbbx/ransomware-termostati-smart-internet-of-things/)
 
-[https://www.infosecurity-magazine.com/news/defcon-thermostat-control-hacked/
+[https://www.infosecurity-magazine.com/news/defcon-thermostat-control-hacked/](https://www.infosecurity-magazine.com/news/defcon-thermostat-control-hacked/)
