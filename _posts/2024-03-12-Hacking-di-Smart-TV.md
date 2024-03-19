@@ -36,6 +36,6 @@ Infine, è fondamentale fare attenzione agli abbonamenti e agli aggiornamenti so
 
 ## Fonti
 
-https://www.youtube.com/watch?v=bOJ_8QHX6OA  --  il video in questione NDR
+[https://www.youtube.com/watch?v=bOJ_8QHX6OA](https://www.youtube.com/watch?v=bOJ_8QHX6OA)  --  il video in questione NDR
 
-https://www.makeuseof.com/ways-hackers-attack-smart-tv/
+[https://www.makeuseof.com/ways-hackers-attack-smart-tv/](https://www.makeuseof.com/ways-hackers-attack-smart-tv/)
