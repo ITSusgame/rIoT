@@ -64,5 +64,7 @@ prodotti.
 - 7 agosto 2020 - Divulgazione pubblica completa durante DEF CON 28.
 
 # Fonti
+
 [https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/](https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/)
+
 [https://www.youtube.com/watch?v=4CWU0DA__bY](https://www.youtube.com/watch?v=4CWU0DA__bY)
