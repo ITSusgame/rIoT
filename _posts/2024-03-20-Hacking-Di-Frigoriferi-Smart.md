@@ -44,6 +44,6 @@ Infine, gli sviluppatori di dispositivi IoT dovrebbero integrare misure di sicur
 
 ## FONTI
 
-[](https://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf)
+[https://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf](https://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf)
 
 [How to hack a smart fridge](https://www.technologyreview.com/2023/05/08/1072708/hack-smart-fridge-digital-forensics/)
