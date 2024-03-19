@@ -1,5 +1,5 @@
 ---
-title: 2024-03-12-Teaser-Trailer-rIoT.md
+title: Teaser Trailer rIoT
 published: true
 ---
 
