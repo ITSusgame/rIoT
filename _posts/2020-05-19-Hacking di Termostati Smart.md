@@ -12,10 +12,12 @@ L'IoT (Internet of Things) ha rivoluzionato il modo in cui interagiamo nel nostr
 E' inevitabile che i cyber criminali prendano di mira dei dispositivi l'IoT sempre più frequanentemente, poichè una Smart Home offre una superfice d'attacco ampia e spesso priva di grandi ostacoli. 
 
 **L'Institute for Critical Infrastructure Technology (ICIT)** descrive l'aumento dei malware come una "epidemia" e afferma che l'IoT è particolarmente a rischio. 
+
 **James Scott, senior fellow presso l’Institute for Critical Infrastructure Technology, e Drew Spaniel, visiting fellow dell’ICIT presso la Carnegie Mellon University** che definiscono l'IoT come una "superfice d'attacco infinita", e il conseguente aumento dello sviluppo e diffusione dei 
 malware che lo prendono di mira come "nomale"  poichè molti dispositivi IoT mancano di qualsiasi forma di sicurezza, sia da parte dei produittori che nel loro utilizzo da perte degli utenti.  
 
 ## L'exploit
+
 **Sostanzialmente un Ransomware è un programma informatico malevolo che può “infettare” un dispositivo digitale (PC, tablet, smartphone, smart TV, etc), bloccando l'accesso a tutti o ad alcuni dei suoi contenuti o funzioni, per poi chiedere un riscattoda pagare per “liberarli”.**
 **Andrew Tierney e Ken Munro ricercatori britannici della nota azienda di sicurezza Pen Test Partners** che si occupa di scoprire le vulnerabilità dei sistemi, ha scoperto l'esistenza di un Ransomware in grado di bloccare determinati termostati SMART. 
 
