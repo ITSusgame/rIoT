@@ -23,8 +23,8 @@ malware che lo prendono di mira come "nomale"  poichè molti dispositivi IoT man
 
 Il termostato in questione ha un grosso display LCD su cui giro il sistema operativo Linux customizzato, ed è munito di una scheda SD che permette agli utenti di caricare delle impostazioni (chiamate in gergo "scene") modificate/personalizzate, dei wallpaper/immagini personali per customizzare l'interfaccia
 e aggiornamenti software manuali.
-L'exploit scoperto dai ricercatori consiste nella mancata verifica del tipo di file caricato nella scheda ed eseguito poi nel sistema operativo. Ciò permetterebbe a un hacker di nascondere un malware dentro un file che assomiglia ad un'immagine, ad una "scena"/routine del dispositivo smart scaricata dall'utente facendola passare anche come creata dal produttore,
-ingannando l'utente, facendogli caricare in memoria quindi, un file compromesso che il termostato SMART eseguirà senza alcun tipo di controllo, eseguendo quindi il malware/ransomware o permettendo l'installazione di un applicativo dannoso all'interno del dispsoitivo. 
+L'exploit scoperto dai ricercatori consiste nella mancata verifica del tipo di file caricato nella scheda ed eseguito poi nel sistema operativo. Ciò permetterebbe a un hacker di nascondere un malware dentro un file che assomiglia ad un'immagine, ad una "scena"/routine del dispositivo smart scaricata dall'utente facendola passare anche come creata dal produttore, ingannando l'utente,facendogli caricare in memoria quindi, un file compromesso che il termostato SMART eseguirà senza alcun tipo di controllo, eseguendo quindi il malware/ransomware o permettendo l'installazione di un applicativo dannoso all'interno del dispsoitivo. 
+Questo tipo di compromissione, nel caso si siam infettati da un Ransomware, può causare al blocco del dispositivo, ad esempio a temperature elevate, fino al pagamento di un riscatto, di solito visualizzato con un messaggio a schermo.
 
 ## Remediation
 
