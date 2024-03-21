@@ -1,5 +1,5 @@
 ---
-title: Hacking Di Frigoriferi Smart
+title: Hacking Di Robot Aspirapolvere Smart
 published: true
 ---
 
@@ -44,7 +44,7 @@ Infine, gli sviluppatori di dispositivi IoT dovrebbero integrare misure di sicur
 
 ## FONTI
 
-[https://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf](https://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf)](https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/)
+[https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/)
 
 [https://techmonitor.ai/technology/cybersecurity/robot-vacuum-cleaners-vulnerabilities
 
