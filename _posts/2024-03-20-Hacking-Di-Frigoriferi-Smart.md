@@ -2,7 +2,6 @@
 title: Hacking Di Frigoriferi Smart
 published: true
 ---
-# HACKING DI SMART FRIDGE
 
 ## Contesto
 
