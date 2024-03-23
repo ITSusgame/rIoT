@@ -1,5 +1,5 @@
 ---
-title: Hacking Di Baby Monitor
+title: Hacking Di Baby Monitor Smart
 published: true
 ---
 
