@@ -52,4 +52,4 @@ Il fornitore non è stato contattabile e non è disponibile alcun aggiornamento,
 
 [https://sec-consult.com/vulnerability-lab/advisory/hijacking-of-arbitrary-misafes-mi-cam-video-baby-monitors/](https://sec-consult.com/vulnerability-lab/advisory/hijacking-of-arbitrary-misafes-mi-cam-video-baby-monitors/)  — lo studio
 
-[https://www.youtube.com/watch?v=SsYnXRUhpL0&t=4s&ab_channel=SECConsult](https://www.youtube.com/watch?v=SsYnXRUhpL0&t=4s&ab_channel=SECConsult) - il PoC
+[https://www.youtube.com/watch?v=SsYnXRUhpL0](https://www.youtube.com/watch?v=SsYnXRUhpL0) - il PoC
