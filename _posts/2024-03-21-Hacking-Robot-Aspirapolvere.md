@@ -44,12 +44,12 @@ Infine, gli sviluppatori di dispositivi IoT dovrebbero integrare misure di sicur
 
 ## FONTI
 
-[https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/)
+[https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/](https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/)
 
-[https://techmonitor.ai/technology/cybersecurity/robot-vacuum-cleaners-vulnerabilities
+[https://techmonitor.ai/technology/cybersecurity/robot-vacuum-cleaners-vulnerabilities](https://techmonitor.ai/technology/cybersecurity/robot-vacuum-cleaners-vulnerabilities)
 
-[https://www.infosecurity-magazine.com/news/vulnerable-iot-vacuums-dvrs-put/
+[https://www.infosecurity-magazine.com/news/vulnerable-iot-vacuums-dvrs-put/](https://www.infosecurity-magazine.com/news/vulnerable-iot-vacuums-dvrs-put/)
 
-[https://nvd.nist.gov/vuln/detail/CVE-2018-10988
-[https://nvd.nist.gov/vuln/detail/CVE-2018-10987
+[https://nvd.nist.gov/vuln/detail/CVE-2018-10988](https://nvd.nist.gov/vuln/detail/CVE-2018-10988)
+[https://nvd.nist.gov/vuln/detail/CVE-2018-10987](https://nvd.nist.gov/vuln/detail/CVE-2018-10987)
 
