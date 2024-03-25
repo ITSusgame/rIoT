@@ -46,22 +46,11 @@ Tuttavia, prima di poter procedere, dobbiamo affrontare una sfida significativa.
 
 Per la nostra dimostrazione, abbiamo scelto di utilizzare l'exploit NSA `EternalBlue`. Questo exploit viene eseguito dal ponte stesso, ed è usato per attaccare i computer che non sono stati aggiornati e che si trovano all'interno della rete IP del bersaglio.
 
-## Divulgazione Coordinata
+## Remediation
 
-- 5 novembre 2019 - Le vulnerabilità sono state rivelate a Philips, e
-inoltrate a Signify.
-- 5 novembre 2019 - Signify ha riconosciuto la nostra segnalazione, e confermato l'
-esistenza della vulnerabilità nel loro prodotto.
-- 25 novembre 2019 - Signify ci ha notificato che hanno terminato lo sviluppo
-e il test della patch, e che sarebbe stata rilasciata a gennaio
-1. 
-- 13 gennaio 2020 - La patch è stata distribuita come un aggiornamento del firmware remoto.
-- 28 gennaio 2020 - A causa della distribuzione basata sulla geografia, ci è voluto
-del tempo al nostro bridge per installare automaticamente l'aggiornamento del firmware.
-- 5 febbraio 2020 - Abbiamo pubblicato un video dimostrativo per sensibilizzare, e
-abbiamo trattenuto i dettagli tecnici finché gli utenti non hanno avuto abbastanza tempo per aggiornare i loro
-prodotti.
-- 7 agosto 2020 - Divulgazione pubblica completa durante DEF CON 28.
+Per proteggersi da vulnerabilità simili, è fondamentale seguire alcune pratiche di sicurezza informatica.
+Innanzitutto, è consigliabile mantenere sempre aggiornati i dispositivi IoT, inclusi gli hub di controllo e le singole lampadine smart, installando prontamente gli aggiornamenti del firmware forniti dai produttori.
+Inoltre, è importante configurare correttamente le reti domestiche, utilizzando password robuste e crittografia per proteggere l'accesso ai dispositivi IoT. È consigliabile anche isolare i dispositivi IoT in reti separate, utilizzando VLAN o reti guest, per limitare l'accesso non autorizzato alla rete principale.
 
 ## Fonti
 
