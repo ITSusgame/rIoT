@@ -38,7 +38,7 @@ Il baby monitor video Mi-Cam, promosso per la sua facilità d'uso e la qualità 
     Queste vulnerabilità pongono una seria minaccia alla sicurezza dei bambini e delle loro famiglie, evidenziando l'importanza di implementare misure di sicurezza robuste nei dispositivi IoT. Gli sviluppatori e i fornitori di dispositivi IoT devono assumere la responsabilità di garantire che i loro prodotti siano adeguatamente protetti contro minacce informatiche e vulnerabilità di sicurezza.
     
 
-## **Soluzione**
+## Soluzione
 
 Il fornitore non è stato contattabile e non è disponibile alcun aggiornamento, pertanto si consiglia vivamente di non utilizzare questo prodotto in quanto non esiste alcuna soluzione alternativa disponibile.
 
