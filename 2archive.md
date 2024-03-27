@@ -11,34 +11,33 @@ title: Archive
     <title>Archive - Il mio sito</title>
     <script>
         // Definisci la stringa di benvenuto
-        var benvenuto = "
-
-            WHAT EXACTLY ARE YOU LOOKING FOR HERE ????
-
-
-            ___           _,.---,---.,_
-            |         ,;~'             '~;,
-            |       ,;                     ;,
-   Frontal  |      ;                         ; ,--- Supraorbital Foramen
-    Bone    |     ,'                         /'
-            |    ,;                        /' ;,
-            |    ; ;      .           . <-'  ; |
-            |__  | ;   ______       ______   ;<----- Coronal Suture
-           ___   |  '/~"     ~" . "~     "~\'  |
-           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
- Maxilla,  |      |   |        }:{        | <------ Orbit
-Nasal and  |      |   l       / | \       !   |
-Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
-  Bones    |      |    ----;' / | \ `;-<--------- Infraorbital Foramen
-           |__     \__.       \/^\/       .__/
-              ___   V| \                 / |V <--- Mastoid Process
-              |      | |T~\___!___!___/~T| |
-              |      | |`IIII_I_I_I_IIII'| |
-     Mandible |      |  \,III I I I III,/  |
-              |       \   `~~~~~~~~~~'    /
-              |         \   .       . <-x---- Mental Foramen
-              |__         \.    ^    ./
-                            ^~~~^~~~^";
+        var benvenuto = 
+"            WHAT EXACTLY ARE YOU LOOKING FOR HERE ????\n" +
+"\n" +
+"            ___           _,.---,---.,_\n" +
+"            |         ,;~'             '~;, \n" +
+"            |       ,;                     ;,\n" +
+"   Frontal  |      ;                         ; ,--- Supraorbital Foramen\n" +
+"    Bone    |     ,'                         /'\n" +
+"            |    ,;                        /' ;,\n" +
+"            |    ; ;      .           . <-'  ; |\n" +
+"            |__  | ;   ______       ______   ;<----- Coronal Suture\n" +
+"           ___   |  '/~\"     ~\" . \"~     \"~\\'  |\n" +
+"           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |\n" +
+" Maxilla,  |      |   |        }:{        | <------ Orbit\n" +
+"Nasal and  |      |   l       / | \\       !   |\n" +
+"Zygomatic  |      .~  (__,.--\" .^. \"--.,__)  ~.\n" +
+"  Bones    |      |    ----;' / | \\ `;-<--------- Infraorbital Foramen\n" +
+"           |__     \\__.       \\/^\\/       .__/\n" +
+"              ___   V| \\                 / |V <--- Mastoid Process\n" +
+"              |      | |T~\\___!___!___/~T| |\n" +
+"              |      | |`IIII_I_I_I_IIII'| |\n" +
+"     Mandible |      |  \\,III I I I III,/  |\n" +
+"              |       \\   `~~~~~~~~~~'    /\n" +
+"              |         \\   .       . <-x---- Mental Foramen\n" +
+"              |__         \\.    ^    ./\n" +
+"                            ^~~~^~~~^";
+;
 
         // Stampa la stringa di benvenuto nella console quando si apre gli strumenti di sviluppo
         console.log(benvenuto);
