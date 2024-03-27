@@ -1,4 +1,7 @@
-# Smart Speakers
+---
+title: Hacking Di Smart Speakers e Home Assistants
+published: true
+---
 
 ## CONTESTO
 
@@ -33,5 +36,3 @@ CVE-2017-13107, CVE-2019-13156, CVE-2020-11976
 [https://www.youtube.com/watch?v=ORji7Tz5GiI](https://www.youtube.com/watch?v=ORji7Tz5GiI&ab_channel=LightCommands) - Ricerca video
 
 [https://www.youtube.com/watch?v=ihRAwc24nXw](https://www.youtube.com/watch?v=ihRAwc24nXw) - Demo video
-
-###
