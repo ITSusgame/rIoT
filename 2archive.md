@@ -11,7 +11,34 @@ title: Archive
     <title>Archive - Il mio sito</title>
     <script>
         // Definisci la stringa di benvenuto
-        var benvenuto = "Benvenuto su questo sito!";
+        var benvenuto = "
+
+            WHAT EXACTLY ARE YOU LOOKING FOR HERE ????
+
+
+            ___           _,.---,---.,_
+            |         ,;~'             '~;,
+            |       ,;                     ;,
+   Frontal  |      ;                         ; ,--- Supraorbital Foramen
+    Bone    |     ,'                         /'
+            |    ,;                        /' ;,
+            |    ; ;      .           . <-'  ; |
+            |__  | ;   ______       ______   ;<----- Coronal Suture
+           ___   |  '/~"     ~" . "~     "~\'  |
+           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+ Maxilla,  |      |   |        }:{        | <------ Orbit
+Nasal and  |      |   l       / | \       !   |
+Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
+  Bones    |      |    ----;' / | \ `;-<--------- Infraorbital Foramen
+           |__     \__.       \/^\/       .__/
+              ___   V| \                 / |V <--- Mastoid Process
+              |      | |T~\___!___!___/~T| |
+              |      | |`IIII_I_I_I_IIII'| |
+     Mandible |      |  \,III I I I III,/  |
+              |       \   `~~~~~~~~~~'    /
+              |         \   .       . <-x---- Mental Foramen
+              |__         \.    ^    ./
+                            ^~~~^~~~^";
 
         // Stampa la stringa di benvenuto nella console quando si apre gli strumenti di sviluppo
         console.log(benvenuto);
