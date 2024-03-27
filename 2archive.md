@@ -3,7 +3,6 @@ layout: page
 title: Archive
 ---
 
-<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
