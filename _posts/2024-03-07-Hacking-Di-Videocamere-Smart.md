@@ -3,7 +3,7 @@ title: Hacking Di Videocamere Smart
 published: true
 ---
 
-## Contesto
+### Contesto
 
 Le telecamere di sicurezza smart rappresentano una componente fondamentale nel panorama dei dispositivi IoT. Questi dispositivi, grazie alla loro capacità di connettersi ad Internet, permettono un controllo remoto in tempo reale, rappresentando un efficace strumento per garantire la sicurezza delle nostre case e dei nostri uffici. Inoltre, molte di queste telecamere sono dotate di funzionalità avanzate, come il rilevamento del movimento, l'analisi video ed il supporto per l'intelligenza artificiale.
 
@@ -15,7 +15,7 @@ Uno dei principali fattori che ha contribuito alla crescente popolarità delle t
 
 È importante notare, tuttavia, che mentre queste telecamere offrono molti vantaggi, è fondamentale garantire che siano correttamente protette contro potenziali attacchi informatici. Dato che sono connessi a Internet, questi dispositivi possono essere soggetti a hacking, quindi è essenziale mantenere sempre aggiornati i software e utilizzare misure di sicurezza adeguate.
 
-## MIRAI
+### MIRAI
 
 La botnet Mirai ha attirato l'attenzione mondiale nel 2016 quando ha orchestrato uno dei più devastanti attacchi distribuiti di negazione del servizio (DDoS) nella storia dell'internet. Questo attacco ha messo in evidenza le fragilità esistenti nei dispositivi IoT, che spesso vengono trascurate in termini di sicurezza.
 
@@ -37,11 +37,11 @@ La terza e ultima fase è quella dell'attacco. In questa fase, il server di coma
 
 Complessivamente, il funzionamento di Mirai dimostra l'efficacia e la pericolosità di questo tipo di attacchi. Sottolinea l'importanza di mantenere sempre aggiornate le credenziali di accesso e di implementare misure di sicurezza appropriate per proteggere i dispositivi IoT.
 
-## ALTRE BOTNET
+### ALTRE BOTNET
 
 Dopo l'attacco di Mirai, numerosi malware simili hanno sfruttato le stesse vulnerabilità nei dispositivi IoT. Ad esempio, la botnet Reaper, emersa nel 2017, si è rivelata ancora più pericolosa di Mirai, in grado di infettare una vasta gamma di dispositivi IoT utilizzando vulnerabilità note piuttosto che semplici combinazioni di nome utente e password. Un altro esempio è la botnet Satori, che è una variante di Mirai e che ha mostrato una capacità di diffusione ancora più veloce. Infine, la botnet Hide 'N Seek, scoperta nel gennaio 2018, è stata la prima botnet ad utilizzare il protocollo peer-to-peer per la comunicazione, rendendo la sua rilevazione e la sua eliminazione molto più complicate. Questi esempi dimostrano l'evoluzione continua delle minacce ai dispositivi IoT e sottolineano l'importanza di una sicurezza efficace.
 
-## REMEDIATION
+### REMEDIATION
 
 Per proteggere le telecamere smart da potenziali attacchi informatici, è necessario adottare una serie di pratiche di sicurezza. Queste pratiche non solo aiutano a prevenire gli attacchi, ma possono anche limitare le potenziali conseguenze se un attacco dovesse verificarsi.
 
@@ -55,7 +55,7 @@ Infine, è consigliabile disattivare le funzionalità non necessarie sui disposi
 
 Ricordate, tuttavia, che nessuna misura di sicurezza è infallibile. È importante monitorare regolarmente i dispositivi e le reti per eventuali attività sospette e adottare un approccio proattivo alla sicurezza. 
 
-## FONTI
+### FONTI
 
 [https://spectrum.ieee.org/mirai-botnet](https://spectrum.ieee.org/mirai-botnet)
 

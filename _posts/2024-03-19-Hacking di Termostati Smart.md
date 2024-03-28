@@ -3,11 +3,11 @@ title: Hacking di Termostati Smart
 published: true
 ---
 
-## Contesto
+### Contesto
 
 L'IoT (Internet of Things) ha rivoluzionato il modo in cui interagiamo nel nostro quotidiano con la casa, sia in termini di comodità sia in termini di gestione economica dei consumi. Grazie alla sua diffusione sempre più ampia, l'IoT offre una vasta gamma di prodotti/elettrodomestici avanzati che vanno ben oltre la semplice accensione/spegnimento remoti o programmati. Una delle principali ragioni della loro popolarità è il loro prezzo sempre più accessibile, i tantissimi produttori che offrono soluzioni diverse ed i vari ecosistemi che li rendono sempre più versatili in modo da coprire le esigenze di un vasto pubblico di consumatori. In particolare uno dei prodotti più "colpiti" dall'IoT sono i termostati, diventati sempre più connessi, articolati ed intelligenti, ossia SMART. La capacità "SMART" di questi prodotti si manifesta attraverso la connettività Internet integrata, consentendo agli utenti di accedere a una vasta gamma di servizi online come l'apprendimento e l'ottimizzazione dell'utilizzo dell'impianto di riscaldamento grazie a degli algoritmi che apprendimento, l'accensione\spegnimento, gestione della temperatura programmati, da remoto, vocali e tramite geolocalizzazione. Grazie alla loro crescente diffusione e alle loro capacità avanzate, stanno rapidamente diventando uno degli elementi più importanti ed insostituibili all'interno dell'ambiente domestico moderno.
 
-## La Ricerca
+### La Ricerca
 
 E' inevitabile che i cyber criminali prendano di mira dei dispositivi l'IoT sempre più frequentemente, poiché una Smart Home offre una superficie d'attacco ampia e spesso priva di grandi ostacoli. 
 
@@ -16,7 +16,7 @@ E' inevitabile che i cyber criminali prendano di mira dei dispositivi l'IoT semp
 **James Scott, senior fellow presso l’Institute for Critical Infrastructure Technology, e Drew Spaniel, visiting fellow dell'ICT presso la Carnegie Mellon University** che definiscono l'IoT come una "superficie d'attacco infinita", e il conseguente aumento dello sviluppo e diffusione dei 
 malware che lo prendono di mira come "normale"  poiché molti dispositivi IoT mancano di qualsiasi forma di sicurezza, sia da parte dei produttori che nel loro utilizzo da parte degli utenti.  
 
-## L'exploit
+### L'exploit
 
 **Sostanzialmente un Ransomware è un programma informatico malevolo che può “infettare” un dispositivo digitale (PC, tablet, smartphone, smart TV, etc), bloccando l'accesso a tutti o ad alcuni dei suoi contenuti o funzioni, per poi chiedere un riscattoda pagare per “liberarli”.**
 **Andrew Tierney e Ken Munro ricercatori britannici della nota azienda di sicurezza Pen Test Partners** che si occupa di scoprire le vulnerabilità dei sistemi, ha scoperto l'esistenza di un Ransomware in grado di bloccare determinati termostati SMART. 
@@ -26,7 +26,7 @@ e aggiornamenti software manuali.
 L'exploit scoperto dai ricercatori consiste nella mancata verifica del tipo di file caricato nella scheda ed eseguito poi nel sistema operativo. Ciò permetterebbe a un hacker di nascondere un malware dentro un file che assomiglia ad un'immagine, ad una "scena"/routine del dispositivo smart scaricata dall'utente facendola passare anche come creata dal produttore, ingannando l'utente,facendogli caricare in memoria quindi, un file compromesso che il termostato SMART eseguirà senza alcun tipo di controllo, eseguendo quindi il malware/ransomware o permettendo l'installazione di un applicativo dannoso all'interno del dispositivo. 
 Questo tipo di compromissione, nel caso si sia infettati da un Ransomware, può causare al blocco del dispositivo, ad esempio a temperature elevate, fino al pagamento di un riscatto, di solito visualizzato con un messaggio a schermo.
 
-## Remediation
+### Remediation
 
 le soluzioni che si possono mettere in atto sono moltissime e dipendono principalmente dalla volontà del' produttore di dare supporto ai propri dispositivi, e dell'utente di proteggere la propria privacy e sicurezza informatica.
 
@@ -38,7 +38,7 @@ Un'altra misura di sicurezza importante è quella di abilitare l'accesso al term
 Infine, è fondamentale fare attenzione agli abbonamenti e agli aggiornamenti software proposti da terze parti o da fonti non autorizzate.
 Evitare di scaricare applicazioni o software promettenti funzionalità aggiuntive senza prima verificare la loro affidabilità e provenienza riduce il rischio di installare malware dannosi che possano compromettere la sicurezza del dispositivo e di tutti quelli connessi.
 
-## Fonti
+### Fonti
 
 [https://www.pentestpartners.com/security-blog/](https://www.pentestpartners.com/security-blog/)
 

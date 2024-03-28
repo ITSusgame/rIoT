@@ -3,13 +3,13 @@ title: Hacking Di Robot Aspirapolvere Smart
 published: true
 ---
 
-## Contesto
+### Contesto
 
 Nel vasto panorama dell'Internet delle Cose (IoT), dove dispositivi connessi semplificano e arricchiscono le nostre vite quotidiane, sorgono anche sfide di sicurezza intricate e spesso nascoste. Uno degli aspetti meno considerati, ma ugualmente rilevanti, è la vulnerabilità dei dispositivi domestici intelligenti, 
 come i robot aspirapolvere. Questi gadget, pur offrendo comodità e automazione nelle pulizie domestiche, possono essere soggetti a minacce informatiche che mettono a rischio la privacy e la sicurezza delle abitazioni. In questo articolo, esploreremo una vulnerabilità specifica che affligge i robot aspirapolvere smart,
 analizzandone le implicazioni e suggerendo possibili soluzioni per mitigare il rischio.
 
-## GLI EXPLOIT
+### GLI EXPLOIT
 
 Due ricercatori dell'azienda di sicurezza Positive Technologies hanno scoperto vulnerabilità che colpiscono la linea di robot aspirapolvere Dongguan Diqee 360 prodotti dal produttore cinese di smart home Diqee.
 In generale questo tipo di dispositivi sono dotati di Wi-Fi e di una telecamera a 360 gradi per una modalità conosciuta come "monitoraggio dinamico" che trasforma la macchina in un dispositivo di sorveglianza domestica. 
@@ -27,7 +27,7 @@ Il modello di Roomba, tuttavia, è dotato di una copertura di protezione della p
  ma questo non è nemmeno il peggiore degli scenari, almeno per i proprietari, poiché nello specifico questo tipo i robot dotati di telecamera di sorveglianza con visione notturna e navigazione controllata tramite smartphone, possono permettere all'attaccante che ne assume il controllo
  di spiare segretamente il proprietario e persino utilizzare l'aspirapolvere come un 'microfono su ruote'.
 
-## REMEDIATION
+### REMEDIATION
 
 Una delle prime linee di difesa contro le vulnerabilità del firmware è l'applicazione di aggiornamenti regolari. Gli utenti dei robot aspirapolvere Dongguan Diqee 360 e dispositivi simili dovrebbero essere vigili riguardo agli aggiornamenti del firmware forniti dal produttore e installarli prontamente. 
 Questi aggiornamenti spesso includono patch di sicurezza che mitigano le vulnerabilità note ai produttori.
@@ -42,7 +42,7 @@ Implementando queste misure di remediation, gli utenti possono ridurre significa
 
 Infine, gli sviluppatori di dispositivi IoT dovrebbero integrare misure di sicurezza avanzate direttamente nel design e nello sviluppo del prodotto. Questo include la realizzazione di controlli di sicurezza robusti e la conduzione di test approfonditi di vulnerabilità e penetrazione per identificare e risolvere eventuali falle di sicurezza prima del rilascio sul mercato.
 
-## FONTI
+### FONTI
 
 [https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/](https://techcrunch.com/2018/07/19/vacuum-vulnerability-hack-diqee-positive-technologies/)
 
