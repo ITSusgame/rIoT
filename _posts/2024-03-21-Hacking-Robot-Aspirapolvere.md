@@ -6,8 +6,7 @@ published: true
 
 ### Contesto
 
-Nel vasto panorama dell'Internet delle Cose (IoT), dove dispositivi connessi semplificano e arricchiscono le nostre vite quotidiane, sorgono anche sfide di sicurezza intricate e spesso nascoste. Uno degli aspetti meno considerati, ma ugualmente rilevanti, è la vulnerabilità dei dispositivi domestici intelligenti, 
-come i robot aspirapolvere. Questi gadget, pur offrendo comodità e automazione nelle pulizie domestiche, possono essere soggetti a minacce informatiche che mettono a rischio la privacy e la sicurezza delle abitazioni. In questo articolo, esploreremo una vulnerabilità specifica che affligge i robot aspirapolvere smart,
+I robot aspirapolvere, pur offrendo comodità e automazione nelle pulizie domestiche, possono essere soggetti a minacce informatiche che mettono a rischio la privacy e la sicurezza delle abitazioni. In questo articolo, esploreremo una vulnerabilità specifica che affligge i robot aspirapolvere smart,
 analizzandone le implicazioni e suggerendo possibili soluzioni per mitigare il rischio.
 
 ### GLI EXPLOIT
@@ -34,12 +33,7 @@ Una delle prime linee di difesa contro le vulnerabilità del firmware è l'appli
 Questi aggiornamenti spesso includono patch di sicurezza che mitigano le vulnerabilità note ai produttori.
 
 Un altro passo essenziale per mitigare il rischio di sfruttamento della vulnerabilità CVE-2018-10987 è modificare immediatamente le credenziali predefinite del dispositivo. Gli utenti dovrebbero cambiare sia il nome utente che la password da impostazioni predefinite come "admin/888888" a combinazioni uniche e robuste. 
-Questo ridurrà significativamente la possibilità di accesso non autorizzato tramite la vulnerabilità di codice remoto, spesso si sottovaluta questo aspetto perché ci si affida troppo alla presunta sicurezza offerta dai modem dei provider, o delle password degli account che gestiscono i dispositivi,
-lasciando quest'ultimi con credenziali di default note agli attaccati poiché uguali per tutti i prodotti. Inoltre, è consigliabile configurare correttamente le impostazioni di sicurezza dei dispositivi IoT per disabilitare le funzionalità non necessarie e limitare l'esposizione del dispositivo agli attacchi.
-
-Gli utenti devono mantenere un monitoraggio attivo dei propri dispositivi IoT. La vigilanza costante sull'attività sospetta o anomala può aiutare a identificare tempestivamente eventuali tentativi di sfruttare le vulnerabilità e adottare misure correttive appropriate.
-
-Implementando queste misure di remediation, gli utenti possono ridurre significativamente il rischio derivante dalle vulnerabilità dei robot aspirapolvere intelligenti e garantire la sicurezza e la privacy delle proprie abitazioni.
+Inoltre, è consigliabile configurare correttamente le impostazioni di sicurezza dei dispositivi IoT per disabilitare le funzionalità non necessarie e limitare l'esposizione del dispositivo agli attacchi.
 
 Infine, gli sviluppatori di dispositivi IoT dovrebbero integrare misure di sicurezza avanzate direttamente nel design e nello sviluppo del prodotto. Questo include la realizzazione di controlli di sicurezza robusti e la conduzione di test approfonditi di vulnerabilità e penetrazione per identificare e risolvere eventuali falle di sicurezza prima del rilascio sul mercato.
 

@@ -6,11 +6,11 @@ published: true
 
 ### Contesto
 
-L'IoT (Internet of Things) ha rivoluzionato il modo in cui interagiamo nel nostro quotidiano con la casa, sia in termini di comodità sia in termini di gestione economica dei consumi. Grazie alla sua diffusione sempre più ampia, l'IoT offre una vasta gamma di prodotti/elettrodomestici avanzati che vanno ben oltre la semplice accensione/spegnimento remoti o programmati. Una delle principali ragioni della loro popolarità è il loro prezzo sempre più accessibile, i tantissimi produttori che offrono soluzioni diverse ed i vari ecosistemi che li rendono sempre più versatili in modo da coprire le esigenze di un vasto pubblico di consumatori. In particolare uno dei prodotti più "colpiti" dall'IoT sono i termostati, diventati sempre più connessi, articolati ed intelligenti, ossia SMART. La capacità "SMART" di questi prodotti si manifesta attraverso la connettività Internet integrata, consentendo agli utenti di accedere a una vasta gamma di servizi online come l'apprendimento e l'ottimizzazione dell'utilizzo dell'impianto di riscaldamento grazie a degli algoritmi che apprendimento, l'accensione\spegnimento, gestione della temperatura programmati, da remoto, vocali e tramite geolocalizzazione. Grazie alla loro crescente diffusione e alle loro capacità avanzate, stanno rapidamente diventando uno degli elementi più importanti ed insostituibili all'interno dell'ambiente domestico moderno.
+La caratteristica "SMART" di questi prodotti si esplica tramite la loro connettività Internet integrata, che consente agli utenti di accedere a una vasta gamma di servizi online. Tra questi, vi sono funzionalità come l'ottimizzazione dell'utilizzo del sistema di riscaldamento attraverso algoritmi di apprendimento, la programmazione dell'accensione/spegnimento, la gestione della temperatura, e il controllo remoto sia vocale che tramite geolocalizzazione. Grazie alla loro crescente diffusione e alle loro capacità avanzate, questi prodotti stanno rapidamente diventando uno degli elementi più importanti e indispensabili all'interno delle moderne abitazioni.
 
 ### La Ricerca
 
-E' inevitabile che i cyber criminali prendano di mira dei dispositivi l'IoT sempre più frequentemente, poiché una Smart Home offre una superficie d'attacco ampia e spesso priva di grandi ostacoli. 
+E' inevitabile che i cyber criminali prendano di mira i dispositivi l'IoT sempre più frequentemente, poiché una Smart Home offre una superficie d'attacco ampia e spesso priva di grandi ostacoli. 
 
 **L'Institute for Critical Infrastructure Technology (ICIT)** descrive l'aumento dei malware come una "epidemia" e afferma che l'IoT è particolarmente a rischio. 
 
