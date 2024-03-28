@@ -2,6 +2,7 @@
 title: Hacking Di Frigoriferi Smart
 published: true
 ---
+## Rischi e Rimedi per i Frigoriferi Smart
 
 ### Contesto
 

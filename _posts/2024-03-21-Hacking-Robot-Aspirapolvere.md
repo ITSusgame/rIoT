@@ -2,6 +2,7 @@
 title: Hacking Di Robot Aspirapolvere Smart
 published: true
 ---
+## Debolezza delle Password Predefinite
 
 ### Contesto
 
@@ -23,9 +24,9 @@ e dunque nel rapporto sulla vulnerabilità si sospetta che anche quei dispositiv
 Positive Technologies ha notato una seconda vulnerabilità, nota come **CVE-2018-10988**, che colpisce anche il modello di aspirapolvere Vacuum di Roomba, anche se richiede ,in questo caso, un accesso fisico attraverso lo slot per la scheda SD per compromettere la macchina.
 Il modello di Roomba, tuttavia, è dotato di una copertura di protezione della privacy davanti all'obiettivo della telecamera, ossia una barriera fisica che "risolve la perdita di privacy dall'hardware" dato dallo sfruttamento di questa vulnerabilità secondo il produttore, che necessità però di essere inserito\disinserito a mano e rendendolo di fatto scomodo e poco utilizzato.
 
- Lo sfruttamento di questo exploit come dichiarato da Leigh-Anne Galloway, responsabile della sicurezza informatica di Positive Technologies, potrebbe portare questi prodotti, e qualsiasi altro dispositivo IoT presente nella rete, ad essere impiegati in un botnet per attacchi DDoS,
- ma questo non è nemmeno il peggiore degli scenari, almeno per i proprietari, poiché nello specifico questo tipo i robot dotati di telecamera di sorveglianza con visione notturna e navigazione controllata tramite smartphone, possono permettere all'attaccante che ne assume il controllo
- di spiare segretamente il proprietario e persino utilizzare l'aspirapolvere come un 'microfono su ruote'.
+Lo sfruttamento di questo exploit come dichiarato da Leigh-Anne Galloway, responsabile della sicurezza informatica di Positive Technologies, potrebbe portare questi prodotti, e qualsiasi altro dispositivo IoT presente nella rete, ad essere impiegati in un botnet per attacchi DDoS,
+ma questo non è nemmeno il peggiore degli scenari, almeno per i proprietari, poiché nello specifico questo tipo i robot dotati di telecamera di sorveglianza con visione notturna e navigazione controllata tramite smartphone, possono permettere all'attaccante che ne assume il controllo
+di spiare segretamente il proprietario e persino utilizzare l'aspirapolvere come un 'microfono su ruote'.
 
 ### REMEDIATION
 

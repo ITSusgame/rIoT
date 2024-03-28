@@ -2,6 +2,7 @@
 title: Hacking di Termostati Smart
 published: true
 ---
+## Ransomware contro i Termostati Intelligenti
 
 ### Contesto
 
