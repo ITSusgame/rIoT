@@ -2,7 +2,7 @@
 title: Hacking Di Smart Speakers e Home Assistants
 published: true
 ---
-##
+## Attacchi agli Home Assistants
 
 ### CONTESTO
 
