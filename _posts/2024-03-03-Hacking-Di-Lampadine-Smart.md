@@ -2,7 +2,7 @@
 title: Hacking Di Lampadine Smart
 published: true
 ---
-## Vulnerabilita' delle lampadine Philips Hue usando ZigBee
+## Vulnerabilita' delle lampadine Smart basate su ZigBee
 
 ### Contesto
 
