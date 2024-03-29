@@ -1,6 +1,8 @@
 # rIoT
 
 Benvenuti sul sito di rIoT, il gioco per coloro che sono interessati a comprendere i pericoli e le minacce nel mondo dell'Internet of Things (IoT). Qui ci impegniamo a portare alla luce i più rilevanti articoli sugli attacchi hacker ai dispositivi IoT, fornendo una guida onesta sui rischi di essere costantemente connessi attraverso questi dispositivi.
+Passa a visitare il nostro sito:
+[https://itsusgame.github.io/rIoT/](https://itsusgame.github.io/rIoT/)
 
 ## Missione
 
