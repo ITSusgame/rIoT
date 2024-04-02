@@ -17,11 +17,10 @@ In generale questo tipo di dispositivi sono dotati di Wi-Fi e di una telecamera 
 
 La vulnerabilità, nota come **CVE-2018-10987**, può concedere a un attaccante (che ottiene l'indirizzo MAC del dispositivo) i privilegi di amministratore di sistema. Secondo il rapporto, la vulnerabilità è contenuta nella funzione **REQUEST_SET_WIFIPASSWD** e sfruttarla richiede l'autenticazione, facilmente aggirabile poiché composta da
 combinazione di nome utente e password predefinita molto comune (admin/888888).
-I ricercatori sospettano che la vulnerabilità nel Dongguan Diqee 360 potrebbe influenzare anche altri dispositivi che condividono lo stesso modulo video, inclusi telecamere di sorveglianza esterne, campanelli intelligenti e DVR. Diqee produce anche aspirapolveri venduti sotto altre marche (come spesso accade per molti produttori asiatici)
-e dunque nel rapporto sulla vulnerabilità si sospetta che anche quei dispositivi potrebbero essere soggetti dalla stessa vulnerabilità.
+I ricercatori sospettano che la vulnerabilità nel Dongguan Diqee 360 potrebbe influenzare anche altri dispositivi che condividono lo stesso modulo video, inclusi telecamere di sorveglianza esterne, campanelli intelligenti e DVR. Diqee produce anche aspirapolveri venduti sotto altre marche (come spesso accade per molti produttori asiatici) e dunque nel rapporto sulla vulnerabilità si sospetta che anche quei dispositivi potrebbero essere soggetti dalla stessa vulnerabilità.
 
 Positive Technologies ha notato una seconda vulnerabilità, nota come **CVE-2018-10988**, che colpisce anche il modello di aspirapolvere Vacuum di Roomba, anche se richiede ,in questo caso, un accesso fisico attraverso lo slot per la scheda SD per compromettere la macchina.
-Il modello di Roomba, tuttavia, è dotato di una copertura di protezione della privacy davanti all'obiettivo della telecamera, ossia una barriera fisica che "risolve la perdita di privacy dall'hardware" dato dallo sfruttamento di questa vulnerabilità secondo il produttore, che necessità però di essere inserito\disinserito a mano e rendendolo di fatto scomodo e poco utilizzato.
+Il modello di Roomba, tuttavia, è dotato di una copertura di protezione della privacy davanti all'obiettivo della telecamera, ossia una barriera fisica che "risolve la perdita di privacy dall'hardware" dato dallo sfruttamento di questa vulnerabilità secondo il produttore, che necessità però di essere inserito/disinserito a mano e rendendolo di fatto scomodo e poco utilizzato.
 
 Lo sfruttamento di questo exploit come dichiarato da Leigh-Anne Galloway, responsabile della sicurezza informatica di Positive Technologies, potrebbe portare questi prodotti, e qualsiasi altro dispositivo IoT presente nella rete, ad essere impiegati in un botnet per attacchi DDoS,
 ma questo non è nemmeno il peggiore degli scenari, almeno per i proprietari, poiché nello specifico questo tipo i robot dotati di telecamera di sorveglianza con visione notturna e navigazione controllata tramite smartphone, possono permettere all'attaccante che ne assume il controllo
@@ -34,8 +33,6 @@ Questi aggiornamenti spesso includono patch di sicurezza che mitigano le vulnera
 
 Un altro passo essenziale per mitigare il rischio di sfruttamento della vulnerabilità CVE-2018-10987 è modificare immediatamente le credenziali predefinite del dispositivo. Gli utenti dovrebbero cambiare sia il nome utente che la password da impostazioni predefinite come "admin/888888" a combinazioni uniche e robuste. 
 Inoltre, è consigliabile configurare correttamente le impostazioni di sicurezza dei dispositivi IoT per disabilitare le funzionalità non necessarie e limitare l'esposizione del dispositivo agli attacchi.
-
-Infine, gli sviluppatori di dispositivi IoT dovrebbero integrare misure di sicurezza avanzate direttamente nel design e nello sviluppo del prodotto. Questo include la realizzazione di controlli di sicurezza robusti e la conduzione di test approfonditi di vulnerabilità e penetrazione per identificare e risolvere eventuali falle di sicurezza prima del rilascio sul mercato.
 
 ### FONTI
 
