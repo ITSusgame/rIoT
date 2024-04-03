@@ -126,3 +126,81 @@ Esistono tre tipi principali di ransomware diversi fra di loro per l'impatto che
 - **Scareware,** caratterizzate da falsi messaggi di software di sicurezza o di servizi di supporto tecnico. Ad esempio, l'utente riceve un messaggio pop-up che segnala un'infezione da malware e avverte che l'unico modo per risolvere il problema consiste nel pagare una certa somma. Se l'utente non fa niente, continuerà probabilmente ad essere bombardato dai messaggi pop-up ma i suoi file saranno essenzialmente al sicuro.
 - **Lockscreen** Quando un computer è infettato da ransomware blocca schermo, l'accesso al PC risulta completamente bloccato. All'avvio del computer compare una finestra a tutto schermo, spesso in base al contesto anche accompagnata da loghi di autorità nazionali, che invita a pagare un una sanzione per lo sblocco del dispositivo.
 - **Ransomware crittografici,** è la tipologia più conosciuta, ed anche la più pericolosa. Gli autori di questi attacchi prelevano i file e li criptano, richiedendo poi il pagamento di un riscatto per ri consegnarli decriptati. Il motivo per cui questo tipo di ransomware è così pericoloso è che, una volta che i criminali informatici si sono impossessati dei file, non esiste alcun software o sistema di sicurezza che possa restituirli al legittimo proprietario. L'unica soluzione per sperare di recuperare i dati è pagare il riscatto. E anche se si accetta di pagare, non vi è alcuna garanzia che i file sottratti vengano restituiti.
+
+## Antivirus
+
+L’antivirus è un programma che scansione il sistema alla ricerca di virus, spyware, ransomware e altri programmi o codici maligni che possono penetrare nel sistema attraverso e-mail, allegati, download o visite a siti fraudolenti. Un buon software antivirus si appoggia a un database delle minacce informatiche e si aggiorna frequentemente per garantire che non sfuggano nemmeno quelle più recenti.
+
+## Firewall
+
+Un firewall è un sistema basato su software o hardware situato nel gateway di rete che protegge le risorse di una rete privata dall'accesso non autorizzato da parte di utenti su altre reti. Esamina tutti i pacchetti in entrata o in uscita, filtrandoli in base all’indirizzo e al tipo, bloccando quelli che non soddisfano i criteri di sicurezza specificati, monitorando il tipo di traffico, gli indirizzi e le porte di origine o destinazione. Identificano tutti i tentativi di accesso nella rete, generando allert
+
+Installare sempre i firewall lontano dal resto della rete, in modo che nessuna delle richieste in arrivo possa ottenere l'accesso diretto a una risorsa di rete privata. 
+
+### Tipi di Firewall
+
+- **Firewall Hardware,** dispositivo dedicato posizionato sul perimetro della rete tramite hardware dedicato ed autonomo, ma è anche integrato nei router a banda larga. I vantaggi principali sono nella loro sicurezza, velocità di risposta, gestione di traffico maggiore, tuttavia sono costosi e difficili da implementare e aggiornare.
+- **Firewall Software,** simile ad un filtro, si trova tra un normale applicativo e i componenti di rete ed analizza il flusso di dati rispetto al set di regole intercettando le richieste per verificare se sono valide/legittime. Sono meno costosi degli hardware e più facili da configurare, tuttavia non adatti a contesti enterprise, poiché consumano troppe risorse di rete/sistema e ha un tempo di risposta meno rapido.
+
+### Limiti dei Firewall
+
+I firewall possono impedire agli utenti di accedere ai servizio, come FTP, Telnet ed internet, etc.
+
+Non possono impedire attacchi interni causati da una backdoor. 
+
+I firewall concentrano la loro sicurezza in un punto, lasciando scoperta il resto della rete e rendendo necessaria l’implementazione di più di uno.
+
+Potrebbe verificarsi un collo di bottiglia se tutte le connessioni puntano allo stesso firewall.
+
+Il firewall non offre protezioni al social engineering. 
+
+## **Virtual Private Network (VPN)**
+
+Rete che fornisce un accesso sicuro alla rete privata.
+
+Le VPN vengono utilizzate per la connessione di reti geografiche(WAN) e la trasmissione di dati sensibili su reti non sicure tramite incapsulamento e crittografia, consentendo di utilizzare una rete pubblica come rete privata. Le VPN non hanno alcuna relazione con i firewall, ma vi possono essere implementate delle funzionalità VPN per contribuire alla sicurezza dei servizi remoti.
+
+## **Zona demilitarizzata (DMZ)**
+
+La DMZ è una rete che funge da cuscinetto tra la rete sicura e internet, per impedire l’accesso esterno.
+
+Può essere creata usando un firewall con tre o più interfacce di rete, a cui sono assegnati ruoli specifici come la rete attendibile interna, la rete DMZ e la rete esterna non attendibile.
+
+Aggiunge un livello di sicurezza alla LAN aziendale impedendo l’accesso diretto ad altre parti della rete.
+
+Qualsiasi servizio come e-mail, web o FTP (File Transfer Protocol) che fornisce l’accesso a utenti esterni può essere inserito nella DMZ.
+
+Tuttavia, i web server che comunicano con i server di database non possono risiedere nella DMZ, in quanto potrebbero fornire agli utenti esterni l’accesso diretto ad informazioni riservate.
+
+Esistono vari tipi di set up per per la DMZ, adattabili ad ogni contesto ed esigenza.
+
+## Crittografia
+
+La crittografia si occupa di proteggere l’informazione e le comunicazioni aziendali attraverso algoritmi di cifratura.
+
+Quando l’informazione da proteggere risiede sui sistemi o sul cloud in maniera statica, si parla di dati a riposo (data-at rest), ottenibili con attacchi di data exfiltration, vengono protetti con crittografia di tipo **3DES, AES.**
+
+Quando l’informazione transita (data-in-transit), i possibili attacchi sono lo sniffing o il MITM (man-in-the-middle), la crittografia avviene a livello di trasporto, attraverso protocolli sia simmetrici **3DES, AES** sia asimmetrici come **RSA.**
+
+## **Concetti crittografici generali**
+
+- **Codifica:** trasformazione di un testo in chiaro (Plain Test) in testo cifrato.
+- **Decodifica:** trasformazione di un testo cifrato (Cipher Test) in un testo in chiaro.
+- **Cifrario:** algoritmo che permette le operazioni di Codifica e Decodifica del testo.
+- **Chiave:** elemento fondamentale, in quanto a parità di testo in chiaro e di algoritmo, **cambiando la chiave di cifratura, cambia il testo cifrato.** La sicurezza di un processo crittografico si fonda sulla sicurezza della chiave e non dell’algoritmo.
+- **Chiavi simmetriche:** utilizzo di una **singola chiave** per cifrare e decifrare
+- **Chiavi asimmetriche:**  utilizzo di **due chiavi,** una per la cifratura e l’altra per la de cifratura.
+
+## Backup frequenti
+
+Il backup si riferisce alla copia di file fisici o virtuali in una posizione secondaria, le aziende lo eseguono per i dati che ritengono vulnerabili in caso di software difettoso, danneggiamento, guasti, hacking, errore umano etc.
+
+I backup si basano sull’acquisizione e sincronizzazione di uno snapshot poin-in-time che viene utilizzato per ripristinare la macchina in quell’esatto stato.
+
+I test di backup e ripristino esaminano le pratiche e tecnologie per la replica e sicurezza dei dati.
+
+Un vantaggio di questo tipo di backup locale è la possibilità di eseguirlo dietro un firewall di rete, la sua velocità e maggior controllo sull’accesso ai dati.
+
+Una delle prassi aziendali utili volte a mitigare i rischi di perdita dei dati in caso di incidenti o varie problematiche ai sistemi sono i backup frequenti, che vengono schedulati in maniera automatica in maniera tale da disporre dello snapshot più recente possibile da poter ripristinare. 
+
+A tal proposito ogni azienda al fine di tutelarsi struttura dei piani di **Business Continuty** e **Disaster Recovery,** piani che strutturano le procedure volte alla continuità operativa e al ripristino dei dati\servizi in caso di guasti e\o incidenti informatici.
