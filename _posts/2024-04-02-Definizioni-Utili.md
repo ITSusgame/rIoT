@@ -174,6 +174,18 @@ Tuttavia, i web server che comunicano con i server di database non possono risie
 
 Esistono vari tipi di set up per per la DMZ, adattabili ad ogni contesto ed esigenza.
 
+## **Segregazione e segmentazione della rete**
+
+La **segmentazione di rete** (**network segmentation**) divide una rete locale in parti più piccole allo scopo di migliorarne prestazioni e sicurezza. E’ un’operazione propedeutica alla **segregazione di rete** (**network segregation**) che consiste nel delimitare il traffico dati entro specifici segmenti, noti in gergo come **sottoreti (subnet)**.
+
+La segmentazione e la segregazione della rete sono strategie altamente efficaci che un'organizzazione può implementare per limitare l'impatto di un'intrusione nella rete. Se implementate correttamente, queste strategie possono rendere molto più difficile per gli attaccanti individuare e ottenere l'accesso ai dati più sensibili di un'organizzazione; e aumentare la probabilità di rilevare tempestivamente le loro attività.
+
+**La segmentazione della rete** implica il partizionamento di una rete in reti più piccole;
+
+**La segregazione della rete** implica lo sviluppo e l'applicazione di un insieme di regole per il controllo delle comunicazioni tra host e servizi specifici.
+
+Quando si implementa la segmentazione e la segregazione della rete, l'obiettivo è limitare il livello di accesso a dati sensibili, host e servizi, garantendo al tempo stesso che un'organizzazione possa continuare a operare in modo efficace. Per essere efficaci, le misure di segmentazione e segregazione della rete devono essere attentamente pianificate, applicate in modo solido, attentamente monitorate e non devono poter essere aggirate.
+
 ## Crittografia
 
 La crittografia si occupa di proteggere l’informazione e le comunicazioni aziendali attraverso algoritmi di cifratura.
