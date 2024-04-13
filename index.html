@@ -2,12 +2,27 @@
 layout: default
 ---
 
-<ul>
-    {% for post in paginator.posts %}
-      <li>
+{% if paginator.page == 1 %}
+  <div class="pinned-posts">
+    {% assign pinned_posts = site.posts | where: 'pinned', true %}
+    {% for post in pinned_posts %}
+      <div class="pinned-post">
+        <div class="post-bubble">
+          <i class="fas fa-thumbtack pin-icon"></i>
           <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-      </li>
+          <time datetime="{{ post.date | date_to_xmlschema }}"></time>
+        </div>
+      </div>
     {% endfor %}
+  </div>
+{% endif %}
+
+<ul class="regular-posts">
+  {% for post in paginator.posts %}
+    <li>
+      <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+    </li>
+  {% endfor %}
 </ul>

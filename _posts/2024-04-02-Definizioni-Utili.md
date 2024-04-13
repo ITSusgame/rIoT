@@ -1,6 +1,7 @@
 ---
 title: Definizioni utili 
 published: true
+pinned: true
 ---
 ## Definizioni utili
 

@@ -271,3 +271,30 @@ a:active, a:focus {
 #wrapper {
   min-height: calc(100vh - 100px);
 }
+
+.pinned-posts {
+  display: flex;
+  justify-content: center; /* Centra gli articoli lungo l'asse orizzontale */
+  align-items: center; /* Centra gli articoli lungo l'asse verticale */
+}
+
+.pinned-post {
+  margin-right: 15px;
+  margin-bottom: 30px;
+}
+
+.post-bubble {
+  width: 350px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #f47c00;
+}
+
+.pin-icon {
+  font-size: 20px;
+  color: #f47c00;
+}
+
+.pinned-post h2 {
+  display: inline-block;
+}
