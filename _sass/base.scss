@@ -298,3 +298,28 @@ a:active, a:focus {
 .pinned-post h2 {
   display: inline-block;
 }
+
+@media (max-width: 768px) {
+  .pinned-posts {
+    flex-direction: column; /* Imposta la direzione della flessione su colonna per i dispositivi mobili */
+    align-items: center; /* Centra gli articoli nella colonna */
+  }
+
+  .pinned-post {
+    margin-right: 0; /* Rimuovi il margine destro per adattare gli articoli pinnati alla colonna */
+    margin-bottom: 10px;
+  }
+  
+  .post-bubble {
+    width: auto; /* Imposta la larghezza automatica per adattarsi al contenuto */
+    white-space: nowrap;
+  }
+}
+
+/*.post-bubble {
+  width: 90%; /* Imposta la larghezza al 100% dello schermo */
+ /* max-width: none; /* Rimuovi il limite massimo di larghezza */
+  /*white-space: nowrap; /* Impedisce il ritorno a capo automatico del testo */
+  /*overflow: hidden; /* Nasconde eventuali contenuti che superano la larghezza */
+  /*text-overflow: ellipsis; /* Aggiunge "..." alla fine del testo se supera la larghezza */
+/*}*/

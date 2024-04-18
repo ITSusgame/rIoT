@@ -1,5 +1,5 @@
 ---
-title: Teaser Trailer rIoT
+title: Trailer rIoT
 published: true
 pinned: true
 ---
