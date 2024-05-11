@@ -315,7 +315,7 @@ a:active, a:focus {
     width: 70vw; /* Imposta la larghezza automatica per adattarsi al contenuto */
     white-space: nowrap;
     box-sizing: border-box;
-    overflow: hidden;
+    overflow: auto;
   }
 }
 
