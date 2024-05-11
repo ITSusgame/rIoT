@@ -299,7 +299,7 @@ a:active, a:focus {
   display: inline-block;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1300px) {
   .pinned-posts {
     flex-direction: column; /* Imposta la direzione della flessione su colonna per i dispositivi mobili */
     align-items: center; /* Centra gli articoli nella colonna */
