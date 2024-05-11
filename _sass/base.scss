@@ -317,6 +317,9 @@ a:active, a:focus {
     box-sizing: border-box;
     overflow: auto;
   }
+  .regular-posts {
+    overflow: hidden;
+  }
 }
 
 /*.post-bubble {
