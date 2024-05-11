@@ -19,7 +19,6 @@ body {
   font-size: 17px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  overflow-x: hidden;
 }
 
 /* General & 'Reset' Stuff */
@@ -28,6 +27,7 @@ body {
   width: 90%;
   max-width: 1000px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 
